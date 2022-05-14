@@ -1,0 +1,12 @@
+h1 {
+    color: yellow;
+    background-color:green;
+    margin: 25px;
+    /* padding-left: 25px; */
+    /* simultaneously  we can add everything in one line */
+    padding: 25px 50px 75px 100px; 
+}
+.hello-world {
+    color: rgb(226, 32, 226);
+    background: rgb(22, 6, 6) url(images/map.png) no-repeat left top;
+}
